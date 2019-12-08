@@ -1,13 +1,7 @@
-## My Project
+## Redshift and Data Lake on AWS ETL and ELT Pattern
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Sample code for multi-part AWS Blogpost on "Design patterns of ETL and ELT data processing pipelines for data lake architecture using Amazon Redshift".
 
 ## License
 
 This project is licensed under the Apache-2.0 License.
-
