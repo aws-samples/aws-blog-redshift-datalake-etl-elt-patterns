@@ -1,4 +1,4 @@
-## Data Lake on AWS and Redshift ETL and ELT Pattern
+## Data Lake on AWS and Amazon Redshift ETL and ELT Design Patterns
 
 Sample code for multi-part AWS Blogpost on "Design patterns of ETL and ELT data processing pipelines for data lake architecture using Amazon Redshift".
 
